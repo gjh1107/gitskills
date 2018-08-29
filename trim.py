@@ -7,7 +7,8 @@ def trim(s):
 	
 
 #addTest add add
-# 测试:
+# 测试: 
+#add feature1 and test1
 if trim('hello  ') != 'hello':
     print('测试失败!')
 elif trim('  hello') != 'hello':
